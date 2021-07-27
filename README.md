@@ -14,6 +14,6 @@ The simulator goes through the five steps he laid out in his experiment to solve
 
 ### Resources
 
-**Video Walkthrough**: Here is a link to a YouTube video I created, walking through the code and explaining the experiment in more detail.
+**Video Walkthrough**: [Here is a link to a YouTube video I created, walking through the code and explaining the experiment in more detail.](https://youtu.be/YBhWrHeIqDs)
 
 **Original Paper**: [Here is a link to Leonard Adleman's original paper.](https://courses.cs.duke.edu/cps296.4/spring04/papers/Adleman94.pdf)
